@@ -1,0 +1,6 @@
+*~
+*.tar.gz
+/checker
+*.zip
+*.o
+/no_ai/*
